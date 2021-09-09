@@ -1,3 +1,4 @@
+# Comandos que podem ser necessários
 mvn spring-boot:run -Dspring-boot.run.profiles={profile_name}
 
 mvn clean spring-boot:run -Dspring-boot.run.profiles=dev 
